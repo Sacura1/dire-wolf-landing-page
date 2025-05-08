@@ -22,7 +22,7 @@ export const Home = () => {
       <h2 className="mission"> {mission} </h2>
     </div> <br />
     <div className="hq">
-      <img className="hq" alt="hq" src="/images/hq.jpg"></img>
+      <img className="hq" alt="hq"src={`${process.env.PUBLIC_URL}/images/hq.jpg`}></img>
     </div> <br />
     <hr></hr>
 
@@ -40,7 +40,7 @@ export const Home = () => {
       </p>
     </div>
     <div >
-      <img  className="App-logo"src="images/logo.png" alt="" />
+      <img  className="App-logo" src={`${process.env.PUBLIC_URL}/images/logo.png`} alt="" />
     </div>
     <div >
       <h2 className="utils">UTILITIES</h2>
@@ -53,7 +53,7 @@ export const Home = () => {
     <br />
     <div className="phase-header">
       <h2 className="">{problem}</h2>
-      <img className="hq" src="/images/bac.jpg" alt="" />
+      <img className="hq" src={`${process.env.PUBLIC_URL}/images/bac.jpg`} alt="" />
 
       <p className="sol" > {sol} </p>
       {solution.map((e)=>{

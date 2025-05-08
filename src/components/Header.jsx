@@ -8,7 +8,7 @@ function Header(){
 
         <h1 className="title">DireWolfHQ</h1>
         
-        <img src="/images/logo.png" className="App-log" alt="logo" />
+        <img src={`${process.env.PUBLIC_URL}/images/logo.png`} className="App-log" alt="logo" />
        <p>
         
         </p>
