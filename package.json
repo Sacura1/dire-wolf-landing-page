@@ -2,7 +2,7 @@
   "name": "dire-wolf",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sacura1.github.io/dire-wolf-landing-page",
+  "homepage": "https://direwolf.club",
   "dependencies": 
   {
     "@testing-library/dom": "^10.4.0",
