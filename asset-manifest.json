@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dire-wolf-landing-page/static/css/main.c831d929.css",
-    "main.js": "/dire-wolf-landing-page/static/js/main.346939f7.js",
-    "index.html": "/dire-wolf-landing-page/index.html",
-    "main.c831d929.css.map": "/dire-wolf-landing-page/static/css/main.c831d929.css.map",
-    "main.346939f7.js.map": "/dire-wolf-landing-page/static/js/main.346939f7.js.map"
+    "main.css": "/static/css/main.c831d929.css",
+    "main.js": "/static/js/main.78643a6a.js",
+    "index.html": "/index.html",
+    "main.c831d929.css.map": "/static/css/main.c831d929.css.map",
+    "main.78643a6a.js.map": "/static/js/main.78643a6a.js.map"
   },
   "entrypoints": [
     "static/css/main.c831d929.css",
-    "static/js/main.346939f7.js"
+    "static/js/main.78643a6a.js"
   ]
 }
