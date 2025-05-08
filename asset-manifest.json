@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dire-wolf-landing-page/static/css/main.1406100f.css",
+    "main.js": "/dire-wolf-landing-page/static/js/main.6dee20ca.js",
+    "index.html": "/dire-wolf-landing-page/index.html",
+    "main.1406100f.css.map": "/dire-wolf-landing-page/static/css/main.1406100f.css.map",
+    "main.6dee20ca.js.map": "/dire-wolf-landing-page/static/js/main.6dee20ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1406100f.css",
+    "static/js/main.6dee20ca.js"
+  ]
+}
